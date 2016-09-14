@@ -12,7 +12,7 @@ Advertisers - Locate the most influential authors
 
 We used the wattpad dataset from tranquint to generate the stats to visualize the data.
 
-######Usage
+###Usage
 ####Spark
 
 The spark script to create the recommendation system in the python notebook
