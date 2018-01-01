@@ -1,26 +1,26 @@
-### Wattpad Dataset Insights
+# Insights From Wattpad's Userdata
 
-###Project Scope:
+## Project Scope:
 
-To assist authors and advertisers to reach their target audiences by helping:
+We made this repo to help:
 
-Authors - Discover similar authors and their userbase
+1) __Authors__ expand their readership through the userbase of other authors
 
-Readers - Find recommended authors
+2) __Readers__ searching from fresh authors
 
-Advertisers - Locate the most influential authors
+3) __Advertisers__ locate the most influential authors
 
-We used the wattpad dataset from tranquint to generate the stats to visualize the data.
+Tranquint's Wattpad Userbase dataset was a great help in helping us e stats to visualize the data.
 
-###Usage
-####Spark
+## Usage
+#### Spark
 
 The spark script to create the recommendation system in the python notebook
 
 You can view our recommendation algorithum which uses the features: age, language, gender, and platform 
 to predict author recommendations for new readers that have the same follower characteristics.
 
-####Maps
+#### Maps
 go to ```splacorn/github.io``` to view the map visualiztion of our hack.
 Note: due to a lack of a powerful server try not to click on the map or else major lag will occur. clicking on the red points is okay
 Simply click on a red point to view all of the followers for that author and some additional statistics.
