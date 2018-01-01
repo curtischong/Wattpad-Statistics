@@ -23,11 +23,7 @@ The following features were used to predict author recommendations for new reade
  - gender
  - platform
 
-
 #### Maps
-If you want to see to view the map visualiztion of our hack.
-Note: due to a lack of a powerful server try not to click on the map or else major lag will occur. clicking on the red points is okay
-Simply click on a red point to view all of the followers for that author and some additional statistics.
+If you want to view a [visualization of our hack](https://visualizing-wattpads-userbase.github.io/). Repo for the demo site is [here](https://github.com/visualizing-wattpads-userbase/visualizing-wattpads-userbase.github.io)
 
-From the recommendation algorithm in our databricks, you will receive the a list of 3 author ids.
-simply paste that author id into the search box and it'll popup on screen (along with its followers)
+Our recommendation algorithm will return a list of three author ids. If you want to know where those authors are, simply paste that author id into the search box (from the demo) and the author (along with their followers) will popup on the map!
