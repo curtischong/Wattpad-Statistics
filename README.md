@@ -26,6 +26,6 @@ The following features were used to predict author recommendations for new reade
  - platform
 
 #### Maps
-If you want to view a [visualization of our hack](https://visualizing-wattpads-userbase.github.io/). Repo for the demo site is [here](https://github.com/visualizing-wattpads-userbase/visualizing-wattpads-userbase.github.io)
+If you want to view a [visualization of our hack](https://visualizing-wattpads-userbase.github.io/), pull the repo for the [demo site](https://github.com/visualizing-wattpads-userbase/visualizing-wattpads-userbase.github.io)
 
 Our recommendation algorithm will return a list of three author ids. If you want to know where those authors are, simply paste that author id into the search box (from the demo) and the author (along with their followers) will popup on the map!
