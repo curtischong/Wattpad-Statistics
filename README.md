@@ -1,6 +1,8 @@
 # Insights From Wattpad's Userdata
 Created by [Hayden Liu](https://www.linkedin.com/in/hayden-liu-80445056/) and [Curtis Chong](https://www.linkedin.com/in/chongcurtis/) at [HackOn(Data) 2016](http://hackondata.com/2016/index.html)
 
+![image of our demo app](http://res.cloudinary.com/dj2eq8czc/image/upload/v1473918557/wattpadMap_aqhjfh.png)
+
 ## Project Scope:
 
 We made this repo to help:
