@@ -9,9 +9,9 @@ We made this repo to help:
 
 1) __Authors__ expand their readership through the userbase of other authors
 
-2) __Readers__ searching from fresh authors
+2) __Readers__ search for new authors
 
-3) __Advertisers__ locate the most influential authors
+3) __Advertisers__ locate the most influential Toronto-based authors
 
 All of our data was taken from TranQuant's Wattpad Userbase.
 ## Usage
